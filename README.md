@@ -2,7 +2,7 @@
 
 Este é o repositório do meu incrível projeto. Abaixo estão as instruções para rodar o projeto localmente em sua máquina.
 
-Esta aplicação é Controlador De Rodadas de clientes. Nela, apresentamos os serviços de criação de sites oferecidos pela nossa empresa, a Encode. O site é completamente responsivo.
+Esta aplicação é Controlador De Rodadas de clientes. O objetivo é escolher jogadores aleatorios para jogar algo especifico. 
 
 ## Pré-requisitos
 
