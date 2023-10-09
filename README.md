@@ -1,4 +1,4 @@
-# Encode
+# ControladorDeRodadas
 
 Este é o repositório do meu incrível projeto. Abaixo estão as instruções para rodar o projeto localmente em sua máquina.
 
